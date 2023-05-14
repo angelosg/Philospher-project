@@ -1,2 +1,2 @@
-# Project_2
-Project 2
+# Philospher text generator
+Do you ever wonder what philosphers may have said about certain topics? I don't really either but this was is a project to learn a bit about text generation from an NLP course. I haven't spent much time reading philosophical essays but this project took a larget set of sentences from five different philosphers and built a model based on these sentenes. Now you can enter some starting phrase for each phillospher and it outputs text generated based on their prior work. It is actually kind of fun and you can get some entertaining results.
